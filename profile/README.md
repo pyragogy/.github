@@ -8,30 +8,71 @@ Inspired by the *Peeragogy Handbook (2012)*, Pyragogy investigates how learning 
 
 Instead of treating AI as a passive assistant, Pyragogy explores systems where AI can function as:
 
-- collaborator  
-- critic  
-- challenger  
-- cognitive amplifier  
+* collaborator
+* critic
+* challenger
+* cognitive amplifier
 
-The objective is not automation.
+The goal is not automation.
 
-The objective is **stronger thinking through human-AI interaction**.
+The goal is **stronger thinking through human–AI interaction**.
 
 ---
 
 # Core Research Themes
 
 ### Cognitive Rhythm
+
 Learning systems where humans and AI interact in cycles of exploration, critique, and reconstruction.
 
 ### Structured Disagreement
+
 Designing AI systems that intentionally introduce **productive friction** into thinking.
 
 ### Peer-AI Learning
+
 Extending peer learning models so that **AI agents become participants in the learning process**.
 
 ### Cognitive Ecosystems
+
 Exploring environments where multiple AI agents and humans collaborate in evolving knowledge systems.
+
+---
+
+# Pyragogy Ecosystem
+
+Pyragogy is not a single tool.
+
+It is an evolving ecosystem combining theory, experimentation, and software systems.
+
+```
+                Pyragogy Ecosystem
+
+                    Humans
+                       │
+                       │
+               ┌───────▼────────┐
+               │  AI Agents     │
+               │  (collaborate) │
+               └───────┬────────┘
+                       │
+                       │
+             ┌─────────▼─────────┐
+             │ Cognitive Systems │
+             │   (experiments)   │
+             └─────────┬─────────┘
+                       │
+        ┌──────────────┼────────────────┐
+        │              │                │
+     Theory        Experiments        Tools
+     Models           Labs           Platforms
+                       │
+          ┌────────────┼────────────┐
+          │            │            │
+   Infrastructure  Publications   Datasets
+```
+
+Within this ecosystem, research ideas move from **theory → experiments → tools → publications**.
 
 ---
 
@@ -41,27 +82,23 @@ The Pyragogy organization is structured into several conceptual layers.
 
 ### Theory / Research
 
-Conceptual frameworks and research models.
+Conceptual frameworks and formal models.
 
 Examples include:
 
-- learning theory
-- cognitive models
-- educational frameworks
-
----
+* learning theory
+* cognitive models
+* educational frameworks
 
 ### Experiments / Labs
 
-Research environments where ideas are tested through experiments.
+Research environments where ideas are tested through working experiments.
 
 Examples:
 
-- multi-agent analysis systems  
-- perturbation experiments  
-- collaborative AI workflows
-
----
+* multi-agent analysis systems
+* perturbation experiments
+* collaborative AI workflows
 
 ### Tools
 
@@ -69,11 +106,9 @@ Software systems built to explore Pyragogy concepts.
 
 Examples:
 
-- conversational AI agents  
-- multi-agent orchestration systems  
-- experimental learning interfaces
-
----
+* conversational AI agents
+* multi-agent orchestration systems
+* experimental learning interfaces
 
 ### Infrastructure
 
@@ -81,11 +116,9 @@ Automation systems and orchestration pipelines.
 
 Examples:
 
-- n8n workflows  
-- AI orchestration pipelines  
-- deployment infrastructure
-
----
+* n8n workflows
+* AI orchestration pipelines
+* deployment infrastructure
 
 ### Publications / Datasets
 
@@ -93,33 +126,74 @@ Research outputs and knowledge artifacts.
 
 Examples:
 
-- AI-generated handbooks  
-- research papers  
-- datasets and archives
+* AI-generated handbooks
+* research papers
+* datasets and archives
 
 ---
 
-# Selected Repositories
+# Key Repositories
 
-| Repository | Description |
-|------------|-------------|
-| protocols | Collaboration and contribution protocols |
-| pyragogy-publications | Research articles and published work |
-| pyragogy-handbook-n8n-workflow | Multi-agent orchestration pipeline |
-| pyragogy-bot | Conversational AI assistant |
-| Cognitive-Intraspecific-Selection-in-Education | Educational research framework |
+| Repository                                     | Description                                                |
+| ---------------------------------------------- | ---------------------------------------------------------- |
+| protocols                                      | Collaboration and contribution protocols                   |
+| pyragogy-publications                          | Research articles and published work                       |
+| pyragogy-handbook-n8n-workflow                 | Multi-agent orchestration pipeline                         |
+| pyragogy-bot                                   | Conversational AI assistant                                |
+| Cognitive-Intraspecific-Selection-in-Education | Educational research framework                             |
+| Blueprint_village                              | Conceptual architecture for an AI-human learning ecosystem |
+
+---
+
+# Research Projects
+
+Some repositories explore foundational questions about learning and cognition.
+
+### Cognitive Intraspecific Selection
+
+Research exploring evolutionary dynamics in learning environments.
+
+Repository:
+
+Cognitive-Intraspecific-Selection-in-Education
+
+---
+
+### Cognitive Impedance Mismatch
+
+A protocol for managing reasoning conflicts between humans and AI systems.
+
+Repository:
+
+protocols
+
+---
+
+### Pyragogy Village Blueprint
+
+Conceptual architecture for an AI–human collaborative learning ecosystem.
+
+Repository:
+
+Blueprint_village
 
 ---
 
 # Experimental Systems
 
-Some experiments developed within the Pyragogy ecosystem include:
+These projects test Pyragogy ideas through working systems.
 
-- **Open Review** — multi-agent epistemic review pipeline  
-- **AI Orchestra** — collaborative multi-agent analysis system  
-- **Perturbation Pattern** — structured disagreement system for strengthening ideas
+### Open Review
 
-These systems explore how **AI agents can challenge ideas instead of simply assisting them**.
+A multi-agent system where AI agents critique and analyze documents from different epistemic positions.
+
+### AI Orchestra
+
+Collaborative multi-agent environment for analyzing complex ideas.
+
+### Perturbation Pattern
+
+A research model where AI agents intentionally introduce disagreement to strengthen reasoning.
 
 ---
 
@@ -131,9 +205,9 @@ Pyragogy explores what happens when **AI becomes part of the peer learning netwo
 
 This introduces new dynamics:
 
-- cognitive acceleration  
-- epistemic tension  
-- collaborative intelligence  
+* cognitive acceleration
+* epistemic tension
+* collaborative intelligence
 
 Rather than replacing human learning, AI becomes part of the **learning environment itself**.
 
@@ -153,10 +227,10 @@ The project is intentionally evolving.
 
 Contributions are welcome in the form of:
 
-- research ideas  
-- experimental tools  
-- critique of existing frameworks  
-- new learning models
+* research ideas
+* experimental tools
+* critiques of existing frameworks
+* new learning models
 
 If you are curious about how humans and AI might **learn together**, you are welcome here.
 
