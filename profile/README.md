@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/assets/hero.svg" alt="Pyragogy" width="600">
+  <img src="assets/hero.svg" alt="Pyragogy" width="600">
 </p>
 
 <p align="center">
