@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: General questions and discussion
+    url: https://github.com/orgs/pyragogy/discussions
+    about: For research questions, ideas, and open conversations
+  - name: Pyragogy website
+    url: https://pyragogy.org
+    about: Visit the project website
